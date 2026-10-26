@@ -6,7 +6,8 @@
     <td valign="middle">
       <h1>Nai Shin Ling</h1>
       <p>
-        <strong>Software Engineer</strong><br>
+        <strong>Programming Analyst</strong> at
+        <a href="https://www.linkedin.com/company/skribble-lab">Skribble Lab</a><br>
         Puchong, Selangor, Malaysia
       </p>
       <p>
