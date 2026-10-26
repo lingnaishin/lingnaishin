@@ -189,6 +189,18 @@ section h2 { padding-bottom: 4px; }
   border-top: 1px solid var(--rule);
 }
 
+.timeline ul {
+  margin: 12px 0 0;
+  padding-left: 1.2rem;
+}
+
+.timeline li li {
+  display: list-item;
+  padding: 3px 0;
+  border: 0;
+  gap: 0;
+}
+
 .when {
   margin: 4px 0 0;
   color: var(--muted);
@@ -255,7 +267,7 @@ section h2 { padding-bottom: 4px; }
 
   .portrait { width: 120px; height: 120px; }
 
-  .timeline li {
+  .timeline > li {
     grid-template-columns: 1fr;
     gap: 2px;
   }
