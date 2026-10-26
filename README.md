@@ -12,8 +12,6 @@
       </p>
       <p>
         <a href="https://www.linkedin.com/in/naishin">LinkedIn</a>
-        ·
-        <a href="https://github.com/lingnaishin">GitHub</a>
       </p>
     </td>
   </tr>
